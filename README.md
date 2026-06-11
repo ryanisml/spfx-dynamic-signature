@@ -26,40 +26,40 @@ Then enable the app<br/>
 
 1. Open https://make.powerautomate.com/ create new power automate. create new flow, i have created "Request Signature to Person Selected"<br/>
 Screenshot showing how to create a new flow in Power Automate with conditional logic.<br/>
-<img src="assets/preview/step 1 - 1.png" alt="Screenshot 2" width="50%" />
+<img src="assets/preview/step 1 - 1.png" alt="Screenshot 2" width="80%" />
 
 2. After that, return to your flow details page and copy the Flow ID from the URL: https://make.powerautomate.com/environments/{your-environment-id}/flows/{flow-id}/details.<br/>Screenshot showing how to create a new Power Automate action from the document properties menu as a custom button.<br/>
-<img src="assets/preview/step 1 - 2.png" alt="Screenshot 1" width="50%" />
+<img src="assets/preview/step 1 - 2.png" alt="Screenshot 1" width="80%" />
 
 3. Screenshot showing how to add a selected item to a new dropdown option named "Request New E-Signature".<br/>
-<img src="assets/preview/step 1 - 3.png" alt="Screenshot 3" width="50%" />
+<img src="assets/preview/step 1 - 3.png" alt="Screenshot 3" width="80%" />
 
 4. Screenshot showing the user clicking the "Request Signature" button.<br/>
-<img src="assets/preview/step 1 - 4.png" alt="Screenshot 4" width="50%" />
+<img src="assets/preview/step 1 - 4.png" alt="Screenshot 4" width="80%" />
 
 5. Screenshot of the email notification generated after the custom Power Automate flow is executed.<br/>
-<img src="assets/preview/1 - email.png" alt="Screenshot 5" width="50%" />
+<img src="assets/preview/1 - email.png" alt="Screenshot 5" width="80%" />
 
 6. Screenshot of the PDF preview page with the URL parameter (pdf-url) provided.<br/>
-<img src="assets/preview/2 - pdf preview.png" alt="Screenshot 6" width="50%" />
+<img src="assets/preview/2 - pdf preview.png" alt="Screenshot 6" width="80%" />
 
 7. Screenshot of the PDF preview page without the URL parameter.<br/>
-<img src="assets/preview/3 - pdf preview with url.png" alt="Screenshot 7" width="50%" />
+<img src="assets/preview/3 - pdf preview with url.png" alt="Screenshot 7" width="80%" />
 
 8. Screenshot showing how to draw a signature on the popup signature canvas.<br/>
-<img src="assets/preview/4 - draw signature.png" alt="Screenshot 8" width="50%" />
+<img src="assets/preview/4 - draw signature.png" alt="Screenshot 8" width="80%" />
 
 9. Screenshot showing the PDF preview after the signature has been drawn.<br/>
-<img src="assets/preview/5 - preview signature.png" alt="Screenshot 9" width="50%" />
+<img src="assets/preview/5 - preview signature.png" alt="Screenshot 9" width="80%" />
 
 10. Screenshot showing the completed PDF signature after clicking the "Generate Signature" button.<br/>
-<img src="assets/preview/6 - Generate Signature Clicked.png" alt="Screenshot 10" width="50%" />
+<img src="assets/preview/6 - Generate Signature Clicked.png" alt="Screenshot 10" width="80%" />
 
 11. Screenshot showing the document approval location after the document has been updated.<br/>
-<img src="assets/preview/7 - Site Preview.png" alt="Screenshot 11" width="50%" />
+<img src="assets/preview/7 - Site Preview.png" alt="Screenshot 11" width="80%" />
 
 12. Screenshot showing the signed PDF document after it has been opened.<br/>
-<img src="assets/preview/8 - Open PDF File.png" alt="Screenshot 12" width="50%" />
+<img src="assets/preview/8 - Open PDF File.png" alt="Screenshot 12" width="80%" />
 
 <br/><br/>
 
