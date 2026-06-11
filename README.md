@@ -18,7 +18,7 @@ Then enable the app<br/>
 3. Add the PDF E-Signature web part to a SharePoint page.<br/>
 <img src="assets/preview/deploy - 3.png" alt="Screenshot Deploy 3" width="50%" />
 
-4. Republish the page<br/>
+4. Republish the page.<br/>
 <img src="assets/preview/deploy - 4.png" alt="Screenshot Deploy 3" width="50%" />
 <br/><br/>
 
