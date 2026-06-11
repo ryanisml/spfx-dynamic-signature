@@ -7,7 +7,7 @@ Visit https://{yourtenant}.sharepoint.com/sites/AppCatalog/SitePages/Beranda.asp
 
 # How to deploy
 1. Download the spfx-dynamic-signature.sppkg package from the /build folder.<br/>
-[spfx-dynamic-signature.sppkg](https://github.com/ryanisml/spfx-dynamic-signature/blob/main/build/spfx-dynamic-signature.sppkg)<br/>
+[spfx-dynamic-signature.sppkg](https://github.com/ryanisml/spfx-dynamic-signature/tree/main/build/spfx-dynamic-signature.sppkg)<br/>
 After downloading the package, open the SharePoint App Catalog URL.<br/>
 <img src="assets/preview/deploy - 1.png" alt="Screenshot Deploy 1" width="50%" />
 
