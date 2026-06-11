@@ -43,6 +43,9 @@ Screenshot showing how to create a new flow in Power Automate with conditional l
 
 12. Screenshot showing the signed PDF document after it has been opened.<br/>
 <img src="assets/preview/8 - Open PDF File.png" alt="Screenshot 12" width="50%" />
+
+3. How to deploy it into sharepoint site. Webpart component name PDFESignature.<br/>
+<img src="assets/preview/9 - deploy.png" alt="Screenshot 9" width="50%" />
 <br/><br/>
 
 # Screenshot for Mobile
