@@ -9,17 +9,17 @@ Visit https://{yourtenant}.sharepoint.com/sites/AppCatalog/SitePages/Beranda.asp
 1. Download the spfx-dynamic-signature.sppkg package from the /build folder.<br/>
 [spfx-dynamic-signature.sppkg](https://github.com/ryanisml/spfx-dynamic-signature/tree/main/build/spfx-dynamic-signature.sppkg)<br/>
 After downloading the package, open the SharePoint App Catalog URL.<br/>
-<img src="assets/preview/deploy - 1.png" alt="Screenshot Deploy 1" width="50%" />
+<img src="assets/preview/deploy - 1.png" alt="Screenshot Deploy 1" width="100%" />
 
 2. Upload the package to the SharePoint App Catalog: https://{tenant-name}.sharepoint.com/sites/appcatalog/_layouts/15/tenantAppCatalog.aspx
 Then enable the app<br/>
-<img src="assets/preview/deploy - 2.png" alt="Screenshot Deploy 2" width="50%" />
+<img src="assets/preview/deploy - 2.png" alt="Screenshot Deploy 2" width="100%" />
 
 3. Add the PDF E-Signature web part to a SharePoint page.<br/>
-<img src="assets/preview/deploy - 3.png" alt="Screenshot Deploy 3" width="50%" />
+<img src="assets/preview/deploy - 3.png" alt="Screenshot Deploy 3" width="100%" />
 
 4. Republish the page.<br/>
-<img src="assets/preview/deploy - 4.png" alt="Screenshot Deploy 3" width="50%" />
+<img src="assets/preview/deploy - 4.png" alt="Screenshot Deploy 3" width="100%" />
 <br/><br/>
 
 # Screenshot for Desktop
