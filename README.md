@@ -5,6 +5,23 @@ This SPFx package allows users to draw signatures directly on PDF documents and 
 You can build this spfx package to your SharePoint tenant.<br/>
 Visit https://{yourtenant}.sharepoint.com/sites/AppCatalog/SitePages/Beranda.aspx to check SharePoint Store.
 
+# How to deploy
+1. Download the spfx-dynamic-signature.sppkg package from the /build folder.<br/>
+<a href url="buildspfx-dynamic-signature.sppkg">PDF E-Signature Package</a>
+After downloading the package, open the SharePoint App Catalog URL.<br/>
+<img src="assets/preview/deploy - 1.png" alt="Screenshot Deploy 1" width="50%" />
+
+2. Upload the package to the SharePoint App Catalog: https://{tenant-name}.sharepoint.com/sites/appcatalog/_layouts/15/tenantAppCatalog.aspx
+Then enable the app<br/>
+<img src="assets/preview/deploy - 2.png" alt="Screenshot Deploy 2" width="50%" />
+
+3. Add the PDF E-Signature web part to a SharePoint page.<br/>
+<img src="assets/preview/deploy - 3.png" alt="Screenshot Deploy 3" width="50%" />
+
+4. Republish the page<br/>
+<img src="assets/preview/deploy - 4.png" alt="Screenshot Deploy 3" width="50%" />
+<br/><br/>
+
 # Screenshot for Desktop
 
 1. Open https://make.powerautomate.com/ create new power automate. create new flow, i have created "Request Signature to Person Selected"<br/>
@@ -44,8 +61,6 @@ Screenshot showing how to create a new flow in Power Automate with conditional l
 12. Screenshot showing the signed PDF document after it has been opened.<br/>
 <img src="assets/preview/8 - Open PDF File.png" alt="Screenshot 12" width="50%" />
 
-3. How to deploy it into sharepoint site. Webpart component name PDFESignature.<br/>
-<img src="assets/preview/9 - deploy.png" alt="Screenshot 9" width="50%" />
 <br/><br/>
 
 # Screenshot for Mobile

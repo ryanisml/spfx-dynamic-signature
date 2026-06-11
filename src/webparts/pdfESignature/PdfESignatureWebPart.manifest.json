@@ -18,11 +18,11 @@
   "preconfiguredEntries": [{
     "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Advanced
     "group": { "default": "Advanced" },
-    "title": { "default": "PdfESignature" },
-    "description": { "default": "PDF e-signature from document library" },
+    "title": { "default": "PDF e-Signature" },
+    "description": { "default": "PDF e-Signature from document library" },
     "officeFabricIconFontName": "Page",
     "properties": {
-      "description": "PdfESignature"
+      "description": "PDF e-Signature"
     }
   }]
 }
